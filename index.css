@@ -1,4 +1,4 @@
-body {display: flex;  justify-content: center; align-items: center;background-color:lightslategray;}
+body {display: flex;  justify-content: center; height:fit-content;background-color:lightslategray; padding-top: 20px;}
 /* "display: flex" arranges the elements from left to right instead of the default arrangement
 of top to bottom. "justify-content: center" requires "display: flex" to be activated and 
 centres the element/s from left to right. "align-items: center" also requires "display: flex"
